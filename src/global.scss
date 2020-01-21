@@ -25,7 +25,14 @@
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
 
-
+.splashContainer{
+   /* background-image: url('./assets/img/backgroundCreavi2edit.png') ;
+    
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;*/
+}
 .inputUsername{
     width: 250px;
     /*width: 100%;*/
@@ -51,3 +58,26 @@
     margin-bottom:30px;
 }
 
+
+
+.h-10{
+    height:10%;
+}
+.h-20{
+    height:20%;
+}
+.h-30{
+height:30%;
+}
+.h-50{
+    height:50%;
+}
+.h-60{
+        height:50%;
+}
+.h-70{
+    height:70%;
+}
+.h-100{
+    height:100%;
+}
