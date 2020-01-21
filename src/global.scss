@@ -24,3 +24,30 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+.inputUsername{
+    width: 250px;
+    /*width: 100%;*/
+    height: 50px;
+    /*height: 35%;*/
+	background: url('./assets/img/user.png') no-repeat;
+	background-position:right 5% bottom 45%;
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	border-radius: 0px;
+    margin-bottom:30px;
+}
+
+.inputPassword{
+    width: 250px;
+    /*width: 100%;*/
+    height: 50px;
+    /*height: 35%;*/
+	background: url('./assets/img/padlock.png') no-repeat;
+	background-position: right 4.5% bottom 45%;
+	border: 1px solid #CCCCCC;
+	border-radius: 0px;
+    margin-bottom:30px;
+}
+

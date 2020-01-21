@@ -1,0 +1,8 @@
+{
+  "appId": "creavi.starter",
+  "appName": "simpleApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
