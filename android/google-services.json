@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975616066949",
+    "firebase_url": "https://simpleapp-98be4.firebaseio.com",
+    "project_id": "simpleapp-98be4",
+    "storage_bucket": "simpleapp-98be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975616066949:android:48dfc90bd9c473da02f0ec",
+        "android_client_info": {
+          "package_name": "creavi.simpleApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975616066949-mb6og83j2cf65aq5mr9dgeldspaq5quo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaitLqB0PrfaBeFLeHxMap7UtqhS0c_2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975616066949-mb6og83j2cf65aq5mr9dgeldspaq5quo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
